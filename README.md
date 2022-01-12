@@ -1,2 +1,2 @@
-# master-kit javascript
- master kit
+# advancedJavaScript
+Starter kit for my JS Courses
