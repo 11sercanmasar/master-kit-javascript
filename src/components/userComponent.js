@@ -30,5 +30,5 @@ userService.add(customerToAdd);
 console.log(userService.costumers);
 console.log(userService.employees);
 console.log(userService.errors);
-console.log(userService.getCustomersSorted())
+console.log(userService.getCustomersSorted() )
 
